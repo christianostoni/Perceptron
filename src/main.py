@@ -17,4 +17,3 @@ for i in range(len(dataset_x)):
 
 input_ = [3, 30]
 print(perc.output_perc(input_))
-
